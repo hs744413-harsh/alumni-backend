@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+passlib[bcrypt]
+python-jose
+python-dotenv
+google-genai
+scikit-learn
+joblib
+sentence-transformers
+faiss-cpu
