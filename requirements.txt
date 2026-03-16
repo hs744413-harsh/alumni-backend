@@ -9,3 +9,4 @@ scikit-learn
 joblib
 sentence-transformers
 faiss-cpu
+psycopg2-binary
